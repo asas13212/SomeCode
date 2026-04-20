@@ -1,3 +1,3 @@
 # SomeCode
 store my code
-Hihihi
+Message: Hihihi
